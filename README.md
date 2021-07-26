@@ -10,3 +10,7 @@ Rama Sai Karthik - Developer
 G. Nithin Reddy - Developer
 
 Key Competencies : RFID Card, Arduino, RaspberryPi, Python.
+
+Client : Sreyas Institute of Engineering and Technology
+
+Location : Innovatio Hub(Robotics Research Center)
